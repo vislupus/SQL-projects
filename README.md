@@ -8,4 +8,4 @@ This repository contains the code for some of my SQL projects.
 
 ## Temperature in Dupnitsa city
 - [table](dupnitsa_temperature-create_table.sql)
-- [queries](dupnitsa_temperature-create_table.sql)
+- [queries](dupnitsa_temperature-queries.sql)
