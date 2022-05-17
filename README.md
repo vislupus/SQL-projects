@@ -1,11 +1,11 @@
 # SQL-projects
 
-I store the code to some of my SQL projects.
-
-## Temperature in Dupnitsa city
-- [table](dupnitsa_temperature-create_table.sql)
-- [queries](dupnitsa_temperature-create_table.sql)
+This repository contains the code for some of my SQL projects.
 
 ## Titanic
 - [table](titanic-create_table.sql)
 - [queries](titanic-queries.sql)
+
+## Temperature in Dupnitsa city
+- [table](dupnitsa_temperature-create_table.sql)
+- [queries](dupnitsa_temperature-create_table.sql)
